@@ -1,0 +1,60 @@
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:79: parseArgs INFO: command used to run annotation script: python /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/scripts/annotateGenomicFeatures.py -i input.vout.anno -g hg38 -a /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:80: parseArgs INFO: infileName: input.vout.anno
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:81: parseArgs INFO: analysisPrefix: GenomicFeaturesAnnotation
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:82: parseArgs INFO: genome: hg38
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:83: parseArgs INFO: annoPath: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:84: parseArgs INFO: columnHeader: FeatureAssignment
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:85: parseArgs INFO: features: 2kb.promoter.up.bed,2kb.promoter.down.bed,2kb.exon.bed,2kb.intron.bed,2kb.tes.bed,2kb.dis5.bed,2kb.dis3.bed,2kb.intergenic.bed
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:86: parseArgs INFO: featureLabels: Promoter.Up,Promoter.Down,Exon,Intron,TES (transcription end sites),Dis5 (5' distal regions),Dis3 (3' distal regions),Intergenic
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:87: parseArgs INFO: tmpDir: tmp_GenomicFeaturesAnnotation
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:88: parseArgs INFO: mode: auto
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:345: getCategories INFO: Mode set to VOUT_format.
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:438: root INFO: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations/hg38/2kb.promoter.up.bed annotation file loaded successfully.
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:438: root INFO: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations/hg38/2kb.promoter.down.bed annotation file loaded successfully.
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:438: root INFO: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations/hg38/2kb.exon.bed annotation file loaded successfully.
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:438: root INFO: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations/hg38/2kb.intron.bed annotation file loaded successfully.
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:438: root INFO: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations/hg38/2kb.tes.bed annotation file loaded successfully.
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:438: root INFO: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations/hg38/2kb.dis5.bed annotation file loaded successfully.
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:438: root INFO: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations/hg38/2kb.dis3.bed annotation file loaded successfully.
+###	[26-06-02 10:41:05] annotateGenomicFeatures.py:438: root INFO: /research/rgs01/home/clusterHome/hreza/git_repos/ann_ai_skill/test_local/annotations/hg38/2kb.intergenic.bed annotation file loaded successfully.
+###	[26-06-02 10:41:06] annotateGenomicFeatures.py:152: annotateFeatures INFO: Feature 2kb.promoter.up.bed completed.
+###	[26-06-02 10:41:07] annotateGenomicFeatures.py:152: annotateFeatures INFO: Feature 2kb.promoter.down.bed completed.
+###	[26-06-02 10:41:07] annotateGenomicFeatures.py:152: annotateFeatures INFO: Feature 2kb.exon.bed completed.
+###	[26-06-02 10:41:08] annotateGenomicFeatures.py:152: annotateFeatures INFO: Feature 2kb.intron.bed completed.
+###	[26-06-02 10:41:08] annotateGenomicFeatures.py:152: annotateFeatures INFO: Feature 2kb.tes.bed completed.
+###	[26-06-02 10:41:08] annotateGenomicFeatures.py:152: annotateFeatures INFO: Feature 2kb.dis5.bed completed.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:152: annotateFeatures INFO: Feature 2kb.dis3.bed completed.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:152: annotateFeatures INFO: Feature 2kb.intergenic.bed completed.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:153: annotateFeatures INFO: Annotated 9961 out of 9999 regions.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:207: barPlot WARNING: Bar plot was NOT drawn for input.vout.anno; Up2 category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:225: piePlot WARNING: Pie plot was NOT drawn for input.vout.anno; Up2 category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:207: barPlot WARNING: Bar plot was NOT drawn for input.vout.anno; Up2NoFDR category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:225: piePlot WARNING: Pie plot was NOT drawn for input.vout.anno; Up2NoFDR category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:207: barPlot WARNING: Bar plot was NOT drawn for input.vout.anno; Up category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:225: piePlot WARNING: Pie plot was NOT drawn for input.vout.anno; Up category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:207: barPlot WARNING: Bar plot was NOT drawn for input.vout.anno; UpNoFDR category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:225: piePlot WARNING: Pie plot was NOT drawn for input.vout.anno; UpNoFDR category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:207: barPlot WARNING: Bar plot was NOT drawn for input.vout.anno; Control category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:225: piePlot WARNING: Pie plot was NOT drawn for input.vout.anno; Control category; 0 features were included into this category.
+###	[26-06-02 10:41:09] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:11] annotateGenomicFeatures.py:205: barPlot INFO: Bar plot drawn for input.vout.anno; DownNoFDR category
+###	[26-06-02 10:41:11] annotateGenomicFeatures.py:223: piePlot INFO: Pie plot drawn for input.vout.anno; DownNoFDR category
+###	[26-06-02 10:41:11] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:12] annotateGenomicFeatures.py:205: barPlot INFO: Bar plot drawn for input.vout.anno; Down category
+###	[26-06-02 10:41:12] annotateGenomicFeatures.py:223: piePlot INFO: Pie plot drawn for input.vout.anno; Down category
+###	[26-06-02 10:41:12] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:13] annotateGenomicFeatures.py:205: barPlot INFO: Bar plot drawn for input.vout.anno; Down2NoFDR category
+###	[26-06-02 10:41:13] annotateGenomicFeatures.py:223: piePlot INFO: Pie plot drawn for input.vout.anno; Down2NoFDR category
+###	[26-06-02 10:41:13] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:14] annotateGenomicFeatures.py:205: barPlot INFO: Bar plot drawn for input.vout.anno; Down2 category
+###	[26-06-02 10:41:15] annotateGenomicFeatures.py:223: piePlot INFO: Pie plot drawn for input.vout.anno; Down2 category
+###	[26-06-02 10:41:15] annotateGenomicFeatures.py:189: generateSummary INFO: Summary files generated
+###	[26-06-02 10:41:15] annotateGenomicFeatures.py:205: barPlot INFO: Bar plot drawn for input.vout.anno; AllRegions category
+###	[26-06-02 10:41:16] annotateGenomicFeatures.py:223: piePlot INFO: Pie plot drawn for input.vout.anno; AllRegions category
+###	[26-06-02 10:41:17] annotateGenomicFeatures.py:318: generateHeatmap INFO: Heatmaps drawn for input.vout.anno.
+###	[26-06-02 10:41:17] annotateGenomicFeatures.py:478: root INFO: All done, thank you.
