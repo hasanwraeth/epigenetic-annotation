@@ -1,0 +1,22 @@
+###	[20-09-30 08:26:45] INFO root: Command used to run the program: python ../../../GIT/scripts/referenceAnnoGenerator.py -gtf ../../yeast/Saccharomyces_cerevisiae_Ensembl_R64-1-1/sacCer3.chrPrefix.gtf -cs ../../yeast/Saccharomyces_cerevisiae_Ensembl_R64-1-1/sacCer3.chrom.sizes -pup 500 -pdn 250 -dup 0 -ddn 0 -tes 10 -p sacCer3
+###	[20-09-30 08:26:45] INFO root: Chromosome sizes file (-cs flag): ../../yeast/Saccharomyces_cerevisiae_Ensembl_R64-1-1/sacCer3.chrom.sizes
+###	[20-09-30 08:26:45] INFO root: GTF file (-gtf flag): ../../yeast/Saccharomyces_cerevisiae_Ensembl_R64-1-1/sacCer3.chrPrefix.gtf
+###	[20-09-30 08:26:45] INFO root: Analysis prefix (-p flag): sacCer3
+###	[20-09-30 08:26:45] INFO root: Promoter Up-stream range (in bp; -pup flag): 500
+###	[20-09-30 08:26:45] INFO root: Promoter Up-stream range (in bp; -pdn flag): 250
+###	[20-09-30 08:26:45] INFO root: Additional shifted TSS formation mode (inferred from pup and pdn params): True
+###	[20-09-30 08:26:45] INFO root: TSS shift: 125
+###	[20-09-30 08:26:45] INFO root: Transcription End Site region size (in bp; -tes flag): 10
+###	[20-09-30 08:26:45] INFO root: Distal region (aka. Dis5) - upstream range (in bp; -dup flag): 0
+###	[20-09-30 08:26:45] INFO root: Distal region (aka. Dis3) - downstream range (in bp; -ddn flag): 0
+###	[20-09-30 08:26:45] INFO root: Saved single-nt TSS as sacCer3.bed.tss
+###	[20-09-30 08:26:45] INFO root: Saved Shifted single-nt TSS as sacCer3.shiftedBy125.flank375.bed.tss
+###	[20-09-30 08:26:45] INFO root: Saved Promoter Upstream regions as sacCer3.promoter.up.500bp.bed
+###	[20-09-30 08:26:46] INFO root: Saved Promoter Downstream regions as sacCer3.promoter.down.250bp.bed
+###	[20-09-30 08:26:46] INFO root: Saved Exons as sacCer3.exon.bed
+###	[20-09-30 08:26:46] INFO root: Saved Transcription Termination Sites (TES) as sacCer3.tes.10bp.bed
+###	[20-09-30 08:26:46] INFO root: Saved Introns as sacCer3.intron.bed
+###	[20-09-30 08:26:46] INFO root: Saved Chromosomes as background regions (for intergenic regions identification) as sacCer3.background.bed
+###	[20-09-30 08:26:46] INFO root: Saved BED files list file as sacCer3.lst
+###	[20-09-30 08:26:46] INFO root: Saved BED files' labels file as sacCer3.labels.lst
+###	[20-09-30 08:26:46] INFO root: All done, thank you!
