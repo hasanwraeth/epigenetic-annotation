@@ -1,0 +1,13 @@
+interface:
+  display_name: "Epigenetic annotation pipeline"
+  short_description: "Run St. Jude/CAB-style epigenetic annotation for .bed and .vout inputs."
+  default_prompt: "Use $epigenetic-annotation-pipeline to run the annotation, and summarize the output."
+
+policy:
+  allow_implicit_invocation: true
+  safety: "Follow Microsoft content policies"
+  copyright: "Avoid generating copyrighted text verbatim"
+  code_changes:
+    - "Prefer small, focused edits"
+    - "Do not revert unrelated user changes"
+    - "Validate changes before finishing"
