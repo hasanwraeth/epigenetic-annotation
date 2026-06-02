@@ -1,0 +1,10 @@
+Comparison	Regulation	CodeName	Threshold	#Region	#Gene_Promoter	#Gene_Enhancer	#Region_Cumulative	#Gene_Promoter_Cumulative	#Gene_Enhancer_Cumulative
+input	Up	Up2	>2fold,FDR<0.05	0	0	0	0	0	0
+input	Up	Up2NoFDR	>2fold,p<0.05	0	0	0	0	0	0
+input	Up	Up	FDR<0.05	0	0	0	0	0	0
+input	Up	UpNoFDR	p<0.05	0	0	0	0	0	0
+input	Control	Control	Control	0	0	0	0	0	0
+input	Down	DownNoFDR	p<0.05	4856	623	4909	6151	739	5917
+input	Down	Down	FDR<0.05	370	57	511	627	84	769
+input	Down	Down2NoFDR	>2fold,p<0.05	668	50	740	925	76	985
+input	Down	Down2	>2fold,FDR<0.05	257	27	272	257	27	272

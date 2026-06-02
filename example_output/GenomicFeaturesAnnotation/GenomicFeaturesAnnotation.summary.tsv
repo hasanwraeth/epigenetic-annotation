@@ -1,0 +1,11 @@
+Annotated file	Category	Threshold	#Regions	Promoter.Up	Promoter.Down	Exon	Intron	TES (transcription end sites)	Dis5 (5' distal regions)	Dis3 (3' distal regions)	Intergenic
+input.vout.anno	Up2	>2fold,FDR<0.05	0	0	0	0	0	0	0	0	0
+input.vout.anno	Up2NoFDR	>2fold,p<0.05	0	0	0	0	0	0	0	0	0
+input.vout.anno	Up	FDR<0.05	0	0	0	0	0	0	0	0	0
+input.vout.anno	UpNoFDR	p<0.05	0	0	0	0	0	0	0	0	0
+input.vout.anno	Control	Control	0	0	0	0	0	0	0	0	0
+input.vout.anno	DownNoFDR	p<0.05	6151	603	361	271	2782	110	1199	375	431
+input.vout.anno	Down	FDR<0.05	627	72	34	27	279	12	127	36	38
+input.vout.anno	Down2NoFDR	>2fold,p<0.05	925	62	48	39	438	11	185	65	77
+input.vout.anno	Down2	>2fold,FDR<0.05	257	24	13	11	115	3	54	18	19
+input.vout.anno	AllRegions	All regions from the analysis	9999	943	573	408	4619	160	1913	612	733

@@ -1,0 +1,10 @@
+Source	Genomic context	Number of regions	Percentage	Percentage of regions
+input.vout.anno	Dis3 (3' distal regions)	612	6.12%	6.120612061206121
+input.vout.anno	Dis5 (5' distal regions)	1913	19.13%	19.131913191319132
+input.vout.anno	Exon	408	4.08%	4.08040804080408
+input.vout.anno		38	0.38%	0.38003800380038005
+input.vout.anno	Intergenic	733	7.33%	7.330733073307331
+input.vout.anno	Intron	4619	46.19%	46.194619461946196
+input.vout.anno	Promoter.Down	573	5.73%	5.7305730573057305
+input.vout.anno	Promoter.Up	943	9.43%	9.43094309430943
+input.vout.anno	TES (transcription end sites)	160	1.60%	1.6001600160016
