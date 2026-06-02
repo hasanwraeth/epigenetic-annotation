@@ -1,0 +1,67 @@
+###	[26-06-02 10:41:25] INFO root: processing input.vout.anno file as input in 'VOUT_format' mode
+###	[26-06-02 10:41:34] INFO root: MA plot drawn for input.vout.anno
+###	[26-06-02 10:41:34] INFO root: Bar plot drawn for input.vout.anno
+###	[26-06-02 10:41:57] INFO root: Heatmaps drawn for input.vout.anno
+###	[26-06-02 10:42:04] INFO root: PCA plots drawn for input.vout.anno
+###	[26-06-02 10:42:10] INFO root: processed input.vout.anno file.
+###	[26-06-02 10:42:10] INFO root: input.vout.bar.pdf file copied to finalReports
+###	[26-06-02 10:42:10] INFO root: input.vout.PCA.Up2_Down2.pdf file copied to finalReports
+###	[26-06-02 10:42:10] INFO root: input.vout.Heatmap.Top100.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.PCA.UpNoFDR_DownNoFDR.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.anno file copied to allOtherFiles
+###	[26-06-02 10:42:11] INFO root: input.vout.PCA.Up2NoFDR_Down2NoFDR.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.Heatmap.Up_Down.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.Heatmap.Up2_Down2.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.PCA.Top100.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.PCA.Up_Down.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.MAplot.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.Heatmap.Up2NoFDR_Down2NoFDR.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.Volcano.pdf file copied to finalReports
+###	[26-06-02 10:42:11] INFO root: input.vout.Heatmap.UpNoFDR_DownNoFDR.pdf file copied to finalReports
+###	[26-06-02 10:42:17] INFO choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+###	[26-06-02 10:42:17] WARNING root: Failed to create global stacked bar: 
+
+Kaleido requires Google Chrome to be installed.
+
+Either download and install Chrome yourself following Google's instructions for your operating system,
+or install it from your terminal by running:
+
+    $ plotly_get_chrome
+
+
+###	[26-06-02 10:42:17] INFO root: All done, thank you.
+###	[26-06-02 10:45:13] INFO root: processing input.vout.anno file as input in 'VOUT_format' mode
+###	[26-06-02 10:45:24] INFO root: MA plot drawn for input.vout.anno
+###	[26-06-02 10:45:26] INFO root: Bar plot drawn for input.vout.anno
+###	[26-06-02 10:45:50] INFO root: Heatmaps drawn for input.vout.anno
+###	[26-06-02 10:45:55] INFO root: PCA plots drawn for input.vout.anno
+###	[26-06-02 10:46:02] INFO root: processed input.vout.anno file.
+###	[26-06-02 10:46:02] INFO root: input.vout.bar.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.PCA.Up2_Down2.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.Heatmap.Top100.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.PCA.UpNoFDR_DownNoFDR.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.anno file copied to allOtherFiles
+###	[26-06-02 10:46:02] INFO root: input.vout.PCA.Up2NoFDR_Down2NoFDR.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.Heatmap.Up_Down.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.Heatmap.Up2_Down2.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.PCA.Top100.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.PCA.Up_Down.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.MAplot.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.Heatmap.Up2NoFDR_Down2NoFDR.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.Volcano.pdf file copied to finalReports
+###	[26-06-02 10:46:02] INFO root: input.vout.Heatmap.UpNoFDR_DownNoFDR.pdf file copied to finalReports
+###	[26-06-02 10:46:12] INFO choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+###	[26-06-02 10:46:12] WARNING plot_stackedBar_across_files: Skipped Plotly image exports for GenomicFeaturesAnnotation/AllFilesAcrossSources.GenomicFeaturesAnnotation: 
+
+Kaleido requires Google Chrome to be installed.
+
+Either download and install Chrome yourself following Google's instructions for your operating system,
+or install it from your terminal by running:
+
+    $ plotly_get_chrome
+
+
+###	[26-06-02 10:46:12] INFO plot_stackedBar_across_files: Saved GenomicFeaturesAnnotation/AllFilesAcrossSources.GenomicFeaturesAnnotation HTML/TSV and any available Plotly images
+###	[26-06-02 10:46:12] INFO plot_stackedBar_across_files_seaborn: Saved GenomicFeaturesAnnotation/AllFilesAcrossSources.GenomicFeaturesAnnotation.seaborn.[png|pdf] (seaborn-styled stacked bar)
+###	[26-06-02 10:46:12] INFO root: Global stacked bar for all annotations saved in GenomicFeaturesAnnotation/
+###	[26-06-02 10:46:12] INFO root: All done, thank you.
