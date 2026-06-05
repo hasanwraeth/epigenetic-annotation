@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/CAB-aiSkills_genomic_regions_annotation.svg" alt="genomic regions annotation skill badge" width="520" />
+  <img src="CAB-aiSkills_genomic_regions_annotation.svg" alt="genomic regions annotation skill badge" width="520" />
 </p>
 
 # Genomic Regions Annotation Pipeline — Agent Skill
@@ -279,14 +279,14 @@ which tabit.sh
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <p float="left">
-  <img src="assets/input.bed.anno.BED_format.barPlot.pdf" width="260" />
+  <img src="input.bed.anno.BED_format.barPlot.pdf" width="260" />
 </p>
 <p float="left">
-  <img src="assets/geneStructure.peak_annotation.peak2context.png" width="260" />
-  <img src="assets/geneStructure.peak_annotation.peak2gene.png" width="260" /> 
+  <img src="geneStructure.peak_annotation.peak2context.png" width="260" />
+  <img src="geneStructure.peak_annotation.peak2gene.png" width="260" /> 
 </p>
 
-![alt-text-1](assets/input.bed.anno.BED_format.barPlot.pdf "title-1") ![alt-text-2](assets/input.bed.anno.BED_format.piePlot.pdf "title-2")
+![alt-text-1](input.bed.anno.BED_format.barPlot.pdf "title-1") ![alt-text-2](input.bed.anno.BED_format.piePlot.pdf "title-2")
 
 
 ---
